@@ -1,0 +1,8 @@
+http://www.tjcandy.com/catalog/brands?view=brands -O "/home/shawnm/websites/tjcandty" -%v
+File generated automatically on Mon, 13 Jul 2020 20:14:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
