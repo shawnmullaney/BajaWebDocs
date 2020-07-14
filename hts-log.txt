@@ -1,12 +1,121 @@
-HTTrack3.49-2 launched on Mon, 13 Jul 2020 20:14:50 at http://www.tjcandy.com/catalog/brands?view=brands
-(winhttrack http://www.tjcandy.com/catalog/brands?view=brands -O "/home/shawnm/websites/tjcandty" -%v )
+HTTrack3.49-2 launched on Mon, 13 Jul 2020 20:28:22 at http://www.tjcandy.com/
+(winhttrack http://www.tjcandy.com/ -O "/home/shawnm/websites/tjcandyFullSiter" -Y -%v )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:14:52	Warning: 	Note: due to www.tjcandy.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+20:28:23	Warning: 	Note: due to www.tjcandy.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+20:31:02	Error: 	"Not Found" (404) at link https://necs.com/assets/ico/apple-touch-icon-144-precomposed.png (from https://necs.com/net/)
+20:31:02	Error: 	"Not Found" (404) at link https://necs.com/assets/ico/apple-touch-icon-114-precomposed.png (from https://necs.com/net/)
+20:31:02	Error: 	"Not Found" (404) at link https://necs.com/assets/ico/apple-touch-icon-72-precomposed.png (from https://necs.com/net/)
+20:31:02	Error: 	"Not Found" (404) at link https://necs.com/assets/ico/apple-touch-icon-57-precomposed.png (from https://necs.com/net/)
+20:31:02	Error: 	"Not Found" (404) at link https://necs.com/net/swfobject.js (from https://necs.com/net/)
+20:31:58	Warning: 	Moved Permanently for https://necs.com/entree/
+20:31:58	Warning: 	File has moved from https://necs.com/entree/ to https://necs.com/entree_food_distribution_software/
+20:33:48	Warning: 	Moved Temporarily for https://necs.com/anoto/
+20:33:48	Warning: 	File has moved from https://necs.com/anoto/ to https://necs.com/pod/
+20:35:56	Warning: 	Moved Permanently for https://www.necs.com/robots.txt
+20:35:56	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.necs.com/robots.txt and https://necs.com/robots.txt
+20:35:56	Warning: 	Warning moved treated for https://www.necs.com/robots.txt (real one is https://necs.com/robots.txt)
+20:35:56	Warning: 	Moved Permanently for https://www.necs.com/
+20:35:56	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.necs.com/ and https://necs.com/
+20:35:56	Warning: 	File has moved from https://www.necs.com/ to https://necs.com/
+20:37:30	Warning: 	Moved Permanently for www.necs.com/robots.txt
+20:37:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.necs.com/robots.txt and necs.com/robots.txt
+20:37:30	Warning: 	Warning moved treated for www.necs.com/robots.txt (real one is necs.com/robots.txt)
+20:37:30	Warning: 	Moved Permanently for www.necs.com/netsplash/
+20:37:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.necs.com/netsplash/ and necs.com/netsplash/
+20:37:30	Warning: 	File has moved from www.necs.com/netsplash/ to http://necs.com/netsplash/
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/img/glyphicons-halflings.png (from https://necs.com/css/bootstrap.css)
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/img/glyphicons-halflings-white.png (from https://necs.com/css/bootstrap.css)
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/images/socials/black/digg-icon.png (from https://necs.com/css/style.css)
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/images/socials/white/digg-icon.png (from https://necs.com/css/style.css)
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/images/assets/menudivider.png (from https://necs.com/css/style.css)
+20:43:09	Error: 	"Not Found" (404) at link https://necs.com/images/tiles/gmapfw.png (from https://necs.com/css/style.css)
+20:43:09	Warning: 	Moved Permanently for https://necs.com/food-distributor-website/
+20:43:09	Warning: 	File has moved from https://necs.com/food-distributor-website/ to http://www.necs.com/website-for-food-distributors/
+20:43:45	Error: 	"Not Found" (404) at link https://necs.com/ap/swfobject.js (from https://necs.com/ap/)
+20:43:45	Error: 	"Not Found" (404) at link https://necs.com/doc/swfobject.js (from https://necs.com/doc/)
+20:43:46	Error: 	"Not Found" (404) at link https://necs.com/dot/swfobject.js (from https://necs.com/dot/)
+20:43:48	Error: 	"Not Found" (404) at link https://necs.com/edi/swfobject.js (from https://necs.com/edi/)
+20:43:48	Error: 	"Not Found" (404) at link https://necs.com/fs/swfobject.js (from https://necs.com/fs/)
+20:43:48	Error: 	"Not Found" (404) at link https://necs.com/gl/swfobject.js (from https://necs.com/gl/)
+20:43:48	Error: 	"Not Found" (404) at link https://necs.com/mw/swfobject.js (from https://necs.com/mw/)
+20:43:51	Error: 	"Not Found" (404) at link https://necs.com/ptv/swfobject.js (from https://necs.com/ptv/)
+20:43:54	Error: 	"Not Found" (404) at link https://necs.com/qb/swfobject.js (from https://necs.com/qb/)
+20:43:54	Error: 	"Not Found" (404) at link https://necs.com/orderpad/swfobject.js (from https://necs.com/orderpad/)
+20:44:27	Warning: 	Found for necs.com/robots.txt
+20:44:27	Warning: 	Redirected link is identical because of 'URL Hack' option: necs.com/robots.txt and https://necs.com/robots.txt
+20:44:27	Warning: 	Warning moved treated for necs.com/robots.txt (real one is https://necs.com/robots.txt)
+20:44:27	Warning: 	Found for necs.com/paper_splash/
+20:44:27	Warning: 	Redirected link is identical because of 'URL Hack' option: necs.com/paper_splash/ and https://necs.com/paper_splash/
+20:44:27	Warning: 	File has moved from necs.com/paper_splash/ to https://necs.com/paper_splash/
+20:44:27	Error: 	"Not Found" (404) at link https://necs.com/ewm/swfobject.js (from https://necs.com/ewm/)
+20:44:50	Error: 	"Not Found" (404) at link https://necs.com/dsr/swfobject.js (from https://necs.com/dsr/)
+20:44:51	Error: 	"Not Found" (404) at link https://necs.com/pod/swfobject.js (from https://necs.com/pod/)
+20:44:51	Error: 	"Not Found" (404) at link https://necs.com/website-for-food-distributors/swfobject.js (from https://necs.com/website-for-food-distributors/)
+20:45:16	Error: 	"Not Found" (404) at link https://necs.com/support/swfobject.js (from https://necs.com/support/)
+20:45:16	Error: 	"Not Found" (404) at link https://necs.com/emergency/swfobject.js (from https://necs.com/emergency/)
+20:48:35	Error: 	"Not Found" (404) at link https://necs.com/www.NECS.com (from https://necs.com/press.php)
+20:48:35	Error: 	"Not Found" (404) at link https://necs.com/partners/swfobject.js (from https://necs.com/partners/)
+20:48:35	Error: 	"Not Found" (404) at link https://necs.com/testimonials.asp (from https://necs.com/contact.php)
+20:48:35	Error: 	"Not Found" (404) at link https://necs.com/entree_food_distribution_software/swfobject.js (from https://necs.com/entree_food_distribution_software/)
+20:49:41	Error: 	"Not Found" (404) at link https://necs.com/express/swfobject.js (from https://necs.com/express/)
+20:50:08	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/upc/features.php (from https://necs.com/upc/)
+20:53:15	Error: 	"Not Found" (404) at link https://necs.com/eop/tutorial.php (from https://necs.com/eop/)
+20:53:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/orderpad/features.php (from https://necs.com/eop/)
+20:53:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=8 (from https://necs.com/blog-article.php?id=10)
+20:53:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=9 (from https://necs.com/blog-article.php?id=10)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/undefined (from https://necs.com/blog-article.php?id=9)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/content/costpricing/IFM - cost price tab.pngg (from https://necs.com/entree_food_distribution_software/cost-price.php)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/content/costpricing/Dashboard - IFM Yearly Comparison.png (from https://necs.com/entree_food_distribution_software/cost-price.php)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/content/accountsreceivableaccounts-receivable-top.jpg (from https://necs.com/entree_food_distribution_software/accounts-receivable.php)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/content/accountsreceivable/IFM showing 30-Day Breakdown circled.png (from https://necs.com/entree_food_distribution_software/accounts-receivable.php)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/content/accountsreceivable/Dashboard - IFM Yearly Comparison.png (from https://necs.com/entree_food_distribution_software/accounts-receivable.php)
+20:53:28	Error: 	"Not Found" (404) at link https://necs.com/images/commissions/invoicing/Salesperson Commissions.png (from https://necs.com/entree_food_distribution_software/commissions.php)
+20:53:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/upc/features.php (from https://necs.com/upc/)
+20:54:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=22 (from https://necs.com/news-article.php?id=127)
+20:54:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=21 (from https://necs.com/news-article.php?id=126)
+20:54:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=17 (from https://necs.com/news-article.php?id=113)
+20:54:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=TEMp&blogid=16 (from https://necs.com/news-article.php?id=108)
+20:54:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=AD-123&blogid=13 (from https://necs.com/news-article.php?id=106)
+20:54:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=eop-221&blogid=12 (from https://necs.com/news-article.php?id=103)
+20:54:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=blog6-12&blogid=10 (from https://necs.com/news-article.php?id=84)
+20:54:31	Error: 	"Error when decompressing" (-1) at link https://necs.com/entree (from https://necs.com/news-article.php?id=43)
+20:54:31	Error: 	"Not Found" (404) at link https://necs.com/products.asp (from https://necs.com/news-article.php?id=4)
+20:54:31	Error: 	"Not Found" (404) at link https://necs.com/le.html (from https://necs.com/news-article.php?id=8)
+20:54:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/requestinfoform.php?productcheck=els (from https://necs.com/blog-article.php?id=3)
+20:54:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/orderpad/features.php (from https://necs.com/eop/)
+20:54:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=8 (from https://necs.com/blog-article.php?id=10)
+20:54:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=9 (from https://necs.com/blog-article.php?id=10)
+20:54:46	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/upc/features.php (from https://necs.com/upc/)
+20:55:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=22 (from https://necs.com/news-article.php?id=127)
+20:55:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=21 (from https://necs.com/news-article.php?id=126)
+20:55:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?blogid=17 (from https://necs.com/news-article.php?id=113)
+20:55:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=TEMp&blogid=16 (from https://necs.com/news-article.php?id=108)
+20:55:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=AD-123&blogid=13 (from https://necs.com/news-article.php?id=106)
+20:55:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=eop-221&blogid=12 (from https://necs.com/news-article.php?id=103)
+20:55:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/blogarticle.php?pmc=blog6-12&blogid=10 (from https://necs.com/news-article.php?id=84)
+20:55:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://necs.com/requestinfoform.php?productcheck=els (from https://necs.com/blog-article.php?id=3)
+20:55:41	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/orderpad/features.php (from https://necs.com/eop/)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?blogid=8 (from https://necs.com/blog-article.php?id=10)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?blogid=9 (from https://necs.com/blog-article.php?id=10)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?blogid=22 (from https://necs.com/news-article.php?id=127)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?blogid=21 (from https://necs.com/news-article.php?id=126)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?blogid=17 (from https://necs.com/news-article.php?id=113)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?pmc=TEMp&blogid=16 (from https://necs.com/news-article.php?id=108)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?pmc=AD-123&blogid=13 (from https://necs.com/news-article.php?id=106)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?pmc=eop-221&blogid=12 (from https://necs.com/news-article.php?id=103)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/blogarticle.php?pmc=blog6-12&blogid=10 (from https://necs.com/news-article.php?id=84)
+20:55:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://necs.com/requestinfoform.php?productcheck=els (from https://necs.com/blog-article.php?id=3)
+22:27:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://necs.com/calendar.php?month=12&year=2201 (from https://necs.com/calendar.php?month=11&year=2201)
+22:27:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://necs.com/calendar.php?month=1&year=1839 (from https://necs.com/calendar.php?month=2&year=1839)
+22:27:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://necs.com/calendar.php?month=12&year=2201 (from https://necs.com/calendar.php?month=11&year=2201)
+22:27:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://necs.com/calendar.php?month=1&year=1839 (from https://necs.com/calendar.php?month=2&year=1839)
+22:27:17	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://necs.com/calendar.php?month=12&year=2201 (from https://necs.com/calendar.php?month=11&year=2201)
+22:27:17	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://necs.com/calendar.php?month=1&year=1839 (from https://necs.com/calendar.php?month=2&year=1839)
 
-HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (39353 bytes overall) [40374 bytes received at 20187 bytes/sec]
-(No errors, 1 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 58 minutes 55 seconds : 5880 links scanned, 5784 files written (358301959 bytes overall) [192294206 bytes received at 26950 bytes/sec], 210882429 bytes transferred using HTTP compression in 5099 files, ratio 20%, 36.0 requests per connection
+(57 errors, 53 warnings, 0 messages)

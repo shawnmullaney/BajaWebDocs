@@ -1,4 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-www.tjcandy.com	TRUE	/	FALSE	1999999999	PHPSESSID	70urcmc2jfh2gcilk6vo99j584
+www.tjcandy.com	TRUE	/	FALSE	1999999999	PHPSESSID	ukl002m45g29g9khu1dcifrrh1
+necs.com	TRUE	/	FALSE	1999999999	PHPSESSID	eggqnm9rob859f7pa3t4ngiah5
 
