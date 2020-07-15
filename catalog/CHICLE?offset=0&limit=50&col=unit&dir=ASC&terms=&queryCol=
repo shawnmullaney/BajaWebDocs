@@ -1,0 +1,1662 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TJ CANDY</title>
+<link rel="stylesheet" type="text/css" href="/include/common/site/type1/site4.css?v=v3.7.5.11-1" /><style>body { background-image: url(' /local//site/images/sitebackground.jpg ') } .pri-fg { color: #ffffff; } .pri-bg { background-color: #8c0b42 }.sec-fg { color: #000000; } .sec-bg { background-color: #e4dacb }.side-fg { color: #000000; } .side-bg { background-color: #d6cabd }.foot-fg { color: #000000; } .foot-bg { background-color: #ccbdb0 }.pri-fg a, .pri-fg a:visited, .pri-fg a:active, .pri-fg a:link { color: #ffffff; background-color: #8c0b42 } a,  a:visited,  a:active,  a:link { color: #8c0b42; background-color: transparent; }.foot-fg a, .foot-fg a:visited, .foot-fg a:active, .foot-fg a:link { color: #000000; background-color: #ccbdb0 }</style><link rel="stylesheet" type="text/css" href="/local/site/site4.css" />
+<meta name="google-site-verification" content="MaK4fX4XCO7TAth_eT2wATVfpdccaf8COpAXw6HWJK4" /><script>
+
+function addItem(id, desc, brand, currprice, currpriceunit, qty, size, ums) {
+	var frmId
+        frmId = document.getElementById('form-id');
+	frmId.value = id;
+
+	frmId = document.getElementById('form-desc');
+	frmId.value = desc;
+
+        frmId = document.getElementById('form-brand');
+	frmId.value = brand;
+
+        frmId = document.getElementById('form-currprice');
+	frmId.value = currprice;
+
+        frmId = document.getElementById('form-currpriceunit');
+	frmId.value = currpriceunit;
+
+        frmId = document.getElementById('form-qty');
+	frmId.value = qty;
+
+        frmId = document.getElementById('form-size');
+	frmId.value = size;
+
+        frmId = document.getElementById('form-ums');
+	frmId.value = ums;
+
+	var form = document.getElementById('myform');
+	form.submit();
+}
+
+</script>
+<link rel="stylesheet" type="text/css" href="/include/common/site/slideshow.css?v=v3.7.5.11-1" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js?v=v3.7.5.11-1"></script>
+<script type="text/javascript" src="/include/common/site/slideshow.js?v=v3.7.5.11-1"></script>
+</head>
+<body>
+
+   <table style="border-collapse: collapse;" width="100%">
+        <tr><td>
+<table width="100%" style="border-collapse: collapse;">
+	<tr><td valign="middle" width="90%">
+		<a href="/catalog?view=class"><img border="0" src="/local/site/images/logo/standard.png" alt="" /></a>
+	</td><td height="100" valign="top" align="center" class="white-grad">
+				
+						<script type="text/javascript">
+	
+		var mygallery=new simpleGallery({
+		wrapperid: "simplegallery1", //ID of main gallery container,
+		dimensions: [250, 90], //width/height of gallery in pixels. Should reflect dimensions of the images exactly
+		imagearray: [
+	
+	
+	
+					
+					
+				["/tjcandy/local/images/items/large/BR000002.jpg", "/vendor/Zumba+Pica?view=brands", "", "Zumba Pica"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000077.jpg", "/vendor/Vero?view=brands", "", "Vero"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000069.jpg", "/vendor/Valentina?view=brands", "", "Valentina"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000081.jpg", "/vendor/Vagabundo?view=brands", "", "Vagabundo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000068.jpg", "/vendor/Tutsi+Pop?view=brands", "", "Tutsi Pop"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000064.jpg", "/vendor/Tia+Juana?view=brands", "", "Tia Juana"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000062.jpg", "/vendor/Tama-Roca?view=brands", "", "Tama-Roca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000061.jpg", "/vendor/Tamanzela?view=brands", "", "Tamanzela"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000012.jpg", "/vendor/Sonric%27s?view=brands", "", "Sonric's"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000058.jpg", "/vendor/Sabritas?view=brands", "", "Sabritas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000010.jpg", "/vendor/Ricolino?view=brands", "", "Ricolino"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000057.jpg", "/vendor/Ravi?view=brands", "", "Ravi"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000024.jpg", "/vendor/Pigui?view=brands", "", "Pigui"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000082.jpg", "/vendor/Pichirilo?view=brands", "", "Pichirilo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000053.jpg", "/vendor/Pavito?view=brands", "", "Pavito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000052.jpg", "/vendor/Nutresa?view=brands", "", "Nutresa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000051.jpg", "/vendor/Nestle?view=brands", "", "Nestle"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000018.jpg", "/vendor/Motitas?view=brands", "", "Motitas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000050.jpg", "/vendor/Moreliates?view=brands", "", "Moreliates"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000003.jpg", "/vendor/Montes?view=brands", "", "Montes"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000092.jpg", "/vendor/Miguelito?view=brands", "", "Miguelito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000047.jpg", "/vendor/Meiji?view=brands", "", "Meiji"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000021.jpg", "/vendor/Lucas?view=brands", "", "Lucas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000045.jpg", "/vendor/Losso?view=brands", "", "Losso"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000013.jpg", "/vendor/Lorena?view=brands", "", "Lorena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000071.jpg", "/vendor/La+Zagala?view=brands", "", "La Zagala"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000043.jpg", "/vendor/La+Molienda?view=brands", "", "La Molienda"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000031.jpg", "/vendor/La+Corona?view=brands", "", "La Corona"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000076.jpg", "/vendor/La+Colmena?view=brands", "", "La Colmena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000029.jpg", "/vendor/La+Coculense?view=brands", "", "La Coculense"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000087.jpg", "/vendor/KustomKids?view=brands", "", "KustomKids"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000042.jpg", "/vendor/Kokito?view=brands", "", "Kokito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000032.jpg", "/vendor/Karla?view=brands", "", "Karla"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000014.jpg", "/vendor/Indy?view=brands", "", "Indy"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000037.jpg", "/vendor/Gamesa?view=brands", "", "Gamesa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000072.jpg", "/vendor/El+Azteca?view=brands", "", "El Azteca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000034.jpg", "/vendor/Dot?view=brands", "", "Dot"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000005.jpg", "/vendor/De+La+Rosa?view=brands", "", "De La Rosa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000086.jpg", "/vendor/Cool+Toons?view=brands", "", "Cool Toons"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000001.jpg", "/vendor/Canels?view=brands", "", "Canels"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000023.jpg", "/vendor/Cabadas?view=brands", "", "Cabadas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000006.jpg", "/vendor/Bondy+Fiesta?view=brands", "", "Bondy Fiesta"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000091.jpg", "/vendor/Alte%C3%B1o?view=brands", "", "Alteño"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000004.jpg", "/vendor/Aldama?view=brands", "", "Aldama"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000015.jpg", "/vendor/Adams?view=brands", "", "Adams"],
+					
+	
+			],
+			autoplay: [true, 2500, 30], //[auto_play_boolean, delay_btw_slide_millisec, cycles_before_stopping_int]
+			persist: false, //remember last viewed slide and recall within same session?
+			fadeduration: 500, //transition duration (milliseconds)
+			oninit:function(){ //event that fires when gallery has initialized/ ready to run
+				//Keyword "this": references current gallery instance (ie: try this.navigate("play/pause"))
+			},
+			onslide:function(curslide, i){ //event that fires after each slide is shown
+				//Keyword "this": references current gallery instance
+				//curslide: returns DOM reference to current slide's DIV (ie: try alert(curslide.innerHTML)
+				//i: integer reflecting current image within collection being shown (0=1st image, 1=2nd etc)
+			}
+		})
+	
+		</script>
+			<div id="simplegallery1"></div>
+										<a href="/catalog/brands?view=brands" ><img src="/include/common/images/shopnow.jpg" style="margin: none; padding: none;"/></a></td></tr>
+</table></td></tr>
+<tr>
+<td>
+<table width="100%" border="0" style=" border-top: thin solid #747b82;  border-right: thin solid #747b82;  border-left: thin solid #747b82;
+border-bottom: thin solid #747b82;  border-top-left-radius: 5px;  border-top-right-radius: 5px;" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td>
+	<table style="border-collapse: collapse;" width="100%" cellpadding="4">
+      <tr class="pri-fg pri-bg" >
+        <td width="275" style="font-size: 14px;"><strong>Our Catalog</strong></td>
+        <td width="76">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="52">&nbsp;</td>
+      </tr>
+ 	    
+  <script type="text/javascript">
+	var locationBrands = "/catalog/brands?view=brands&limit=50";
+	var locationClass = "/catalog?view=class&limit=50";
+	var locationAllItems =  "/catalog/allitems?view=allitems&limit=50";
+	function changeFunc() {
+    var selectview = document.getElementById("selectview");
+    var selectedValue = selectview.options[selectview.selectedIndex].value;
+	if(selectedValue == "bybrand") {
+	window.location = locationBrands }
+	if(selectedValue == "byclass") {
+	window.location = locationClass }
+	if(selectedValue == "allitems") {
+	window.location = locationAllItems }
+   }
+  </script>
+<form id="searchform" name="search" method="get" action="/search"> <tr  class="pri-fg pri-bg" style="border-bottom: thin solid #747b82;">
+        <td colspan="10" valign="middle">View:
+          <select name="selectview" id="selectview" style="font-family: Arial,'Lucidia Console',sans-serif;" onchange="changeFunc();">
+                <option value="choose">Select</option>
+				<option value="allitems"  >All Items</option>
+                <option value="byclass" >By Class</option>
+                <option value="bybrand" >By Brand</option>
+              </select>
+          &nbsp;&nbsp;&nbsp;&nbsp;  Search:  
+		  <select name="queryCol" id="queryCol" style="  font-family: Arial,'Lucidia Console',sans-serif;">
+		   <option value="">All</option>
+                <option value="SM_FULLTEXT" >Item Descriptions</option>
+                <option value="class" >By Class</option>
+                <option value="brand" >By Brand</option>
+                <option value="item_no" >Item Number</option>
+              </select>&nbsp;&nbsp;
+          <input type="text" id="keywords" name="terms"  onclick='javascript: this.value = ""' style="width: 440px;     font-family: Arial,'Lucidia Console',sans-serif;
+    font-size: 12px;" value="Enter Search Terms"/>
+		  &nbsp;&nbsp;<input type="submit"  value="Search">
+		</td>
+      </tr></form>	<tr class="pri-fg pri-bg"><td colspan="10" style="border-bottom: thin solid #747b82; font-size: 14px"><b>Browsing Product Class: CHICLE</b>
+	</td></tr>
+    </table>
+	
+	</td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+	
+    <div style="max-height: 550px; overflow: auto;">
+    	<table width="100%" CELLSPACING="0">
+      <tr>
+           <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;">Image</td>        <td width="8%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82; background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=item_no&dir=ASC&terms=&queryCol=" class="pri-fg">Item #</a></td>
+        <td  width="33%"   class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=description1&dir=ASC&terms=&queryCol=" class="pri-fg">Description</a></td>
+        <td width="26%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=brand&dir=ASC&terms=&queryCol=" class="pri-fg">Brand</a></td>
+         <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;"><a href="?offset=0&limit=50&col=size&dir=ASC&terms=&queryCol=" class="pri-fg">Pack Size</a></td>
+        <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;"><a href="?offset=0&limit=50&col=unit&dir=DESC&terms=&queryCol=" class="pri-fg">Unit</a></td>
+		 <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;">Weight</td>
+          		         </tr>
+											
+					<tr><td  colspan="7"   style="background-color:#cccccc; border-bottom: thin solid #000000; font-size: 14px;"><b>CHICLE</b></td></tr>
+					
+					<div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN02205"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000013.jpg" alt="Canels 4 Pastillas Original Jarra" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN02205</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN02205">Canels 4 Pastillas Original Jarra</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/300 pzs</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  22.4900  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00159"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001353.jpg" alt="De La Rosa Chicle 4 Pastillas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00159</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00159">De La Rosa Chicle 4 Pastillas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/100</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  25.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN00318"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000231.jpg" alt="Canels Miniatura Granel" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN00318</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN00318">Canels Miniatura Granel</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32 lb/432p</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  32.7000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/MOT00508"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000420.jpg" alt="Motitas Frutas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">MOT00508</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/MOT00508">Motitas Frutas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Motitas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN05440"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000443.jpg" alt="Canels 4 Pastillas Original Peg" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN05440</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN05440">Canels 4 Pastillas Original Peg</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/3.88 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  3.8000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN05384"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000437.jpg" alt="Canels Whatta Bubble Gum" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN05384</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN05384">Canels Whatta Bubble Gum</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">20/100</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN51300"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000440.jpg" alt="Canels 4 Pastillas A Granel" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN51300</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN51300">Canels 4 Pastillas A Granel</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">28.6/2574</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  30.4400  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA41676"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000095.jpg" alt="Adams Bubbaloo Menta" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA41676</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA41676">Adams Bubbaloo Menta</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00282"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000401.jpg" alt="De La Rosa Chicle Cubin" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00282</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00282">De La Rosa Chicle Cubin</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">26/100</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  35.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/PAY00975"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001133.jpg" alt="Payasito Carrizo Con Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">PAY00975</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/PAY00975">Payasito Carrizo Con Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Payasito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.3000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/PAY00983"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001134.jpg" alt="Payasito Mamila Con Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">PAY00983</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/PAY00983">Payasito Mamila Con Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Payasito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">40/6</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.3500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA41677"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000222.jpg" alt="Adams Bubbaloo Fresa" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA41677</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA41677">Adams Bubbaloo Fresa</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA41678"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000097.jpg" alt="Adams Bubbaloo Platano" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA41678</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA41678">Adams Bubbaloo Platano</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA41679"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000762.jpg" alt="Adams Bubbaloo Mora" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA41679</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA41679">Adams Bubbaloo Mora</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA41681"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000223.jpg" alt="Adams Bubbaloo Tutti Frutti" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA41681</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA41681">Adams Bubbaloo Tutti Frutti</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/MOT00417"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000287.jpg" alt="Motitas Uva" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">MOT00417</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/MOT00417">Motitas Uva</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Motitas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/MOT00509"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000286.jpg" alt="Motitas Platano" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">MOT00509</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/MOT00509">Motitas Platano</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Motitas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA58359"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001822.jpg" alt="Adams Bubbaloo Cherry" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA58359</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA58359">Adams Bubbaloo Cherry</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00009"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000191.jpg" alt="Carr Bombi Crayon De Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00009</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00009">Carr Bombi Crayon De Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/24</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.3000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN00218"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000273.jpg" alt="Canels 4 Pastillas Original" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN00218</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN00218">Canels 4 Pastillas Original</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">40/60</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  27.5400  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN02206"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000499.jpg" alt="Canels 4 Pastillas Frutal Jarra" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN02206</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN02206">Canels 4 Pastillas Frutal Jarra</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/300 pzs</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  22.4900  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN00256"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000101.jpg" alt="Canels 4 Pastillas Frutal" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN00256</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN00256">Canels 4 Pastillas Frutal</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">40/60</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  27.5400  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN00314"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000102.jpg" alt="Canels Miniatura Bolsa" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN00314</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN00314">Canels Miniatura Bolsa</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/369 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.5000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN05439"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000434.jpg" alt="Canels Miniatura Peg" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN05439</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN05439">Canels Miniatura Peg</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/3.88 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  3.9500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/WOR09098"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002128.jpg" alt="World Gum Stick" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">WOR09098</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/WOR09098">World Gum Stick</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">World</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">20/24</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/EAZ83479"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001027.jpg" alt="El Azteca Baby Bottles 6/8/6" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">EAZ83479</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/EAZ83479">El Azteca Baby Bottles 6/8/6</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Azteca</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/8/6 pzs</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  14.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00411"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001437.jpg" alt="Carr Chicle Rebolon Rosa" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00411</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00411">Carr Chicle Rebolon Rosa</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.3000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/EAZ00983"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001464.jpg" alt="El Azteca Baby Bottles Rosa 36/12" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">EAZ00983</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/EAZ00983">El Azteca Baby Bottles Rosa 36/12</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Azteca</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">36/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  18.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/EAZ00982"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001480.jpg" alt="El Azteca Baby Bottles Azul 36/12" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">EAZ00982</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/EAZ00982">El Azteca Baby Bottles Azul 36/12</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Azteca</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">36/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  18.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA65533"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001715.jpg" alt="Adams Bubbaloo Reto" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA65533</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA65533">Adams Bubbaloo Reto</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.8000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00506"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000970.jpg" alt="Carr Chicle Rebolon Surtido Bolsa" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00506</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00506">Carr Chicle Rebolon Surtido Bolsa</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.3500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/LDE06065"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001526.jpg" alt="Las Delicias Soda Bubble" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">LDE06065</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/LDE06065">Las Delicias Soda Bubble</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Las Delicias</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/24</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  10.7500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA91359"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000809.jpg" alt="Adams Cloret's 2 Pastillas Menta" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA91359</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA91359">Adams Cloret's 2 Pastillas Menta</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/60</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  16.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/EAZ00101"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000212.jpg" alt="El Azteca Baby Bottles 36/12" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">EAZ00101</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/EAZ00101">El Azteca Baby Bottles 36/12</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Azteca</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">36/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  21.9000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00405"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001439.jpg" alt="Carr Chicle Rebolon Azul" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00405</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00405">Carr Chicle Rebolon Azul</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 Kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.3000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00773"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002011.jpg" alt="Carr Bibiositos Con Mini Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00773</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00773">Carr Bibiositos Con Mini Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">8/6</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.7500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA91243"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000125.jpg" alt="Adams Chiclet's 2 Pastillas Surtido" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA91243</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA91243">Adams Chiclet's 2 Pastillas Surtido</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/100</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  31.8500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA91244"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001408.jpg" alt="Adams Chiclet's 2 Pastillas Menta" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA91244</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA91244">Adams Chiclet's 2 Pastillas Menta</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/100</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  31.8500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00417"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001440.jpg" alt="Carr Chicle Rebolon Blanco" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00417</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00417">Carr Chicle Rebolon Blanco</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.3000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/COR03399"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001696.jpg" alt="Corona Chutazo Vitrolero" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">COR03399</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/COR03399">Corona Chutazo Vitrolero</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">La Corona</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/50</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  27.5500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ANA01552"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001904.jpg" alt="Anahuac Espada de Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ANA01552</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ANA01552">Anahuac Espada de Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Anahuac</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  21.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ADA60483"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001788.jpg" alt="Adams Cloret's Plus 12 pc Menta" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ADA60483</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ADA60483">Adams Cloret's Plus 12 pc Menta</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Adams</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">32/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  30.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00776"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002010.jpg" alt="Carr Bombibibi Gum Display" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00776</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00776">Carr Bombibibi Gum Display</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/24</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  19.0500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00082"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001921.jpg" alt="Carr Carrizo Chico Display" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00082</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00082">Carr Carrizo Chico Display</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">30/30 pzas</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  10.9000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00778"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001994.jpg" alt="Carr Barrilon Con Mini Chicle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00778</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00778">Carr Barrilon Con Mini Chicle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">8/6</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  10.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00866"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001927.jpg" alt="Carr Rebolon Blanco Jaspeado Bolsa" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00866</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00866">Carr Rebolon Blanco Jaspeado Bolsa</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 Kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.2500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00218"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001898.jpg" alt="Carr Mini Gum Bag" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00218</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00218">Carr Mini Gum Bag</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 Kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAR00107"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001903.jpg" alt="Carr Piedrita Gum Bag" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAR00107</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAR00107">Carr Piedrita Gum Bag</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Carr</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/1 Kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  23.3500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/CAN00229"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000011.jpg" alt="Canels 12 Pastillas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">CAN00229</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/CAN00229">Canels 12 Pastillas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Canels</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/20</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  21.4000  
+  
+  
+  </td>
+  
+    </tr></div></table></div>	   <tr>
+	<td><div id="pager" class="pri-bg pri-fg">
+<table width="100%" class="pri-bg pri-fg" >
+<tr>
+	<td width="30%">
+					Displaying
+			1 -
+			49			of
+			49			results.
+			</td>
+
+	<td width="35%" align="center">
+
+
+	</td>
+
+	<td width="35%" align="right">* Indicates Average Weight &nbsp;&nbsp;&nbsp;&nbsp; 
+		&nbsp;&nbsp;Results per page <select name="page-size" onchange="window.location=''+ this.options[this.selectedIndex].value+''"><option selected value="?offset=0&limit=50&col=unit&dir=ASC&terms=&queryCol=">50</option><option  value="?offset=0&limit=100&col=unit&dir=ASC&terms=&queryCol=">100</option><option  value="?offset=0&limit=150&col=unit&dir=ASC&terms=&queryCol=">150</option><option  value="?offset=0&limit=200&col=unit&dir=ASC&terms=&queryCol=">200</option><option  value="?offset=0&limit=250&col=unit&dir=ASC&terms=&queryCol=">250</option></select>	</td>
+</table>
+</div>
+</td>
+  </tr>
+			  </table></td>
+  </tr>
+ 
+</table>
+
+	</td></tr></table>
+
+
+	<table width="100%"><tr><td valign="middle">		<center>TJ CANDY		6079 Rickenbacker Rd.
+Commerce, CA 90040		Phone: (562) 463-8194		Fax: (562) 692-4981</center><br />
+        <div align="right"><a href="http://www.necs.com/net" alt="Online Distribution Website from NECS" target="_blank"><img src="/include/common/images/entreenet.png" border="0" style="margin-bottom:3px; margin-right:3px;"/></a></div>
+    <script>var gSiteRoot = '';</script>
+</td></tr></table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76800504-8', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

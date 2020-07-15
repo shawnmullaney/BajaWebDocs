@@ -1,0 +1,350 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TJ CANDY</title>
+<link rel="stylesheet" type="text/css" href="/include/common/site/type1/site4.css?v=v3.7.5.11-1" /><style>body { background-image: url(' /local//site/images/sitebackground.jpg ') } .pri-fg { color: #ffffff; } .pri-bg { background-color: #8c0b42 }.sec-fg { color: #000000; } .sec-bg { background-color: #e4dacb }.side-fg { color: #000000; } .side-bg { background-color: #d6cabd }.foot-fg { color: #000000; } .foot-bg { background-color: #ccbdb0 }.pri-fg a, .pri-fg a:visited, .pri-fg a:active, .pri-fg a:link { color: #ffffff; background-color: #8c0b42 } a,  a:visited,  a:active,  a:link { color: #8c0b42; background-color: transparent; }.foot-fg a, .foot-fg a:visited, .foot-fg a:active, .foot-fg a:link { color: #000000; background-color: #ccbdb0 }</style><link rel="stylesheet" type="text/css" href="/local/site/site4.css" />
+<meta name="google-site-verification" content="MaK4fX4XCO7TAth_eT2wATVfpdccaf8COpAXw6HWJK4" /><script>
+
+function addItem(id, desc, brand, currprice, currpriceunit, qty, size, ums) {
+	var frmId
+        frmId = document.getElementById('form-id');
+	frmId.value = id;
+
+	frmId = document.getElementById('form-desc');
+	frmId.value = desc;
+
+        frmId = document.getElementById('form-brand');
+	frmId.value = brand;
+
+        frmId = document.getElementById('form-currprice');
+	frmId.value = currprice;
+
+        frmId = document.getElementById('form-currpriceunit');
+	frmId.value = currpriceunit;
+
+        frmId = document.getElementById('form-qty');
+	frmId.value = qty;
+
+        frmId = document.getElementById('form-size');
+	frmId.value = size;
+
+        frmId = document.getElementById('form-ums');
+	frmId.value = ums;
+
+	var form = document.getElementById('myform');
+	form.submit();
+}
+
+</script>
+<link rel="stylesheet" type="text/css" href="/include/common/site/slideshow.css?v=v3.7.5.11-1" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js?v=v3.7.5.11-1"></script>
+<script type="text/javascript" src="/include/common/site/slideshow.js?v=v3.7.5.11-1"></script>
+</head>
+<body>
+   <table style="border-collapse: collapse;" width="100%">
+        <tr><td>
+<table width="100%" style="border-collapse: collapse;">
+	<tr><td valign="middle" width="90%">
+		<a href="/catalog?view=class"><img border="0" src="/local/site/images/logo/standard.png" alt="" /></a>
+	</td><td height="100" valign="top" align="center" class="white-grad">
+				
+						<script type="text/javascript">
+	
+		var mygallery=new simpleGallery({
+		wrapperid: "simplegallery1", //ID of main gallery container,
+		dimensions: [250, 90], //width/height of gallery in pixels. Should reflect dimensions of the images exactly
+		imagearray: [
+	
+	
+	
+					
+					
+				["/tjcandy/local/images/items/large/BR000002.jpg", "/vendor/Zumba+Pica?view=brands", "", "Zumba Pica"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000077.jpg", "/vendor/Vero?view=brands", "", "Vero"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000069.jpg", "/vendor/Valentina?view=brands", "", "Valentina"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000081.jpg", "/vendor/Vagabundo?view=brands", "", "Vagabundo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000068.jpg", "/vendor/Tutsi+Pop?view=brands", "", "Tutsi Pop"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000064.jpg", "/vendor/Tia+Juana?view=brands", "", "Tia Juana"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000062.jpg", "/vendor/Tama-Roca?view=brands", "", "Tama-Roca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000061.jpg", "/vendor/Tamanzela?view=brands", "", "Tamanzela"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000012.jpg", "/vendor/Sonric%27s?view=brands", "", "Sonric's"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000058.jpg", "/vendor/Sabritas?view=brands", "", "Sabritas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000010.jpg", "/vendor/Ricolino?view=brands", "", "Ricolino"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000057.jpg", "/vendor/Ravi?view=brands", "", "Ravi"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000024.jpg", "/vendor/Pigui?view=brands", "", "Pigui"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000082.jpg", "/vendor/Pichirilo?view=brands", "", "Pichirilo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000053.jpg", "/vendor/Pavito?view=brands", "", "Pavito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000052.jpg", "/vendor/Nutresa?view=brands", "", "Nutresa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000051.jpg", "/vendor/Nestle?view=brands", "", "Nestle"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000018.jpg", "/vendor/Motitas?view=brands", "", "Motitas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000050.jpg", "/vendor/Moreliates?view=brands", "", "Moreliates"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000003.jpg", "/vendor/Montes?view=brands", "", "Montes"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000092.jpg", "/vendor/Miguelito?view=brands", "", "Miguelito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000047.jpg", "/vendor/Meiji?view=brands", "", "Meiji"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000021.jpg", "/vendor/Lucas?view=brands", "", "Lucas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000045.jpg", "/vendor/Losso?view=brands", "", "Losso"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000013.jpg", "/vendor/Lorena?view=brands", "", "Lorena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000071.jpg", "/vendor/La+Zagala?view=brands", "", "La Zagala"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000043.jpg", "/vendor/La+Molienda?view=brands", "", "La Molienda"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000031.jpg", "/vendor/La+Corona?view=brands", "", "La Corona"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000076.jpg", "/vendor/La+Colmena?view=brands", "", "La Colmena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000029.jpg", "/vendor/La+Coculense?view=brands", "", "La Coculense"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000087.jpg", "/vendor/KustomKids?view=brands", "", "KustomKids"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000042.jpg", "/vendor/Kokito?view=brands", "", "Kokito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000032.jpg", "/vendor/Karla?view=brands", "", "Karla"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000014.jpg", "/vendor/Indy?view=brands", "", "Indy"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000037.jpg", "/vendor/Gamesa?view=brands", "", "Gamesa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000072.jpg", "/vendor/El+Azteca?view=brands", "", "El Azteca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000034.jpg", "/vendor/Dot?view=brands", "", "Dot"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000005.jpg", "/vendor/De+La+Rosa?view=brands", "", "De La Rosa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000086.jpg", "/vendor/Cool+Toons?view=brands", "", "Cool Toons"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000001.jpg", "/vendor/Canels?view=brands", "", "Canels"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000023.jpg", "/vendor/Cabadas?view=brands", "", "Cabadas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000006.jpg", "/vendor/Bondy+Fiesta?view=brands", "", "Bondy Fiesta"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000091.jpg", "/vendor/Alte%C3%B1o?view=brands", "", "Alteño"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000004.jpg", "/vendor/Aldama?view=brands", "", "Aldama"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000015.jpg", "/vendor/Adams?view=brands", "", "Adams"],
+					
+	
+			],
+			autoplay: [true, 2500, 30], //[auto_play_boolean, delay_btw_slide_millisec, cycles_before_stopping_int]
+			persist: false, //remember last viewed slide and recall within same session?
+			fadeduration: 500, //transition duration (milliseconds)
+			oninit:function(){ //event that fires when gallery has initialized/ ready to run
+				//Keyword "this": references current gallery instance (ie: try this.navigate("play/pause"))
+			},
+			onslide:function(curslide, i){ //event that fires after each slide is shown
+				//Keyword "this": references current gallery instance
+				//curslide: returns DOM reference to current slide's DIV (ie: try alert(curslide.innerHTML)
+				//i: integer reflecting current image within collection being shown (0=1st image, 1=2nd etc)
+			}
+		})
+	
+		</script>
+			<div id="simplegallery1"></div>
+										<a href="/catalog/brands?view=brands" ><img src="/include/common/images/shopnow.jpg" style="margin: none; padding: none;"/></a></td></tr>
+</table></td></tr>
+<tr>
+<td>
+
+
+
+<table width="100%" border="0" style=" border-top: thin solid #747b82;  border-right: thin solid #747b82;  border-left: thin solid #747b82;  border-bottom: thin solid #747b82;  border-top-left-radius: 5px;  border-top-right-radius: 5px;" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table style="border-collapse: collapse;" width="100%" CELLPADDING="4">
+  <tr class="pri-fg pri-bg" >
+    <td width="275" style="font-size: 14px;"><strong>Our Catalog</strong></td>
+    <td width="76">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="47">&nbsp;</td>
+    <td width="52">&nbsp;</td>
+  </tr>
+   	    
+  <script type="text/javascript">
+	var locationBrands = "/catalog/brands?view=brands";
+	var locationClass = "/catalog?view=class";
+	var locationAllItems =  "/catalog/allitems?view=allitems";
+	function changeFunc() {
+    var selectview = document.getElementById("selectview");
+    var selectedValue = selectview.options[selectview.selectedIndex].value;
+	if(selectedValue == "bybrand") {
+	window.location = locationBrands }
+	if(selectedValue == "byclass") {
+	window.location = locationClass }
+	if(selectedValue == "allitems") {
+	window.location = locationAllItems }
+   }
+  </script>
+<form id="searchform" name="search" method="get" action="/search"> <tr  class="pri-fg pri-bg" style="border-bottom: thin solid #747b82;">
+        <td colspan="10" valign="middle">View:
+          <select name="selectview" id="selectview" style="font-family: Arial,'Lucidia Console',sans-serif;" onchange="changeFunc();">
+                <option value="choose">Select</option>
+				<option value="allitems"  >All Items</option>
+                <option value="byclass" >By Class</option>
+                <option value="bybrand" >By Brand</option>
+              </select>
+          &nbsp;&nbsp;&nbsp;&nbsp;  Search:  
+		  <select name="queryCol" id="queryCol" style="  font-family: Arial,'Lucidia Console',sans-serif;">
+		   <option value="">All</option>
+                <option value="SM_FULLTEXT" >Item Descriptions</option>
+                <option value="class" >By Class</option>
+                <option value="brand" >By Brand</option>
+                <option value="item_no" >Item Number</option>
+              </select>&nbsp;&nbsp;
+          <input type="text" id="keywords" name="terms"  onclick='javascript: this.value = ""' style="width: 440px;     font-family: Arial,'Lucidia Console',sans-serif;
+    font-size: 12px;" value="Enter Search Terms"/>
+		  &nbsp;&nbsp;<input type="submit"  value="Search">
+		</td>
+      </tr></form>  </table>
+  </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+    
+    
+	<div align="center"><input type="submit" onclick="javascript:history.back()" value="Back" style="margin-top:5px;"></div>
+
+		
+    <div align="center"><h1>MON00727 - Montes Surtido Chicloso</h1></div>
+
+	
+	<table width="100%" bgcolor="white" style=" margin-bottom: 20px;">
+				<tr>
+									<td valign="top" width="150" align="center">
+						
+						<img src="/local/images/items/jumbo/IT001911.jpg" alt="Montes Surtido Chicloso" border="0" style="margin-bottom: 15px; margin-top 5px;"/>
+						
+					</td>
+								</tr>
+				<tr>
+				<td align="center" valign="top">
+					<table class="info-table"  width="400" style="border: 1px solid #ccc;" cellpadding="4">
+						<tr><td class="color1" width="28%" style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Class:</b></td><td style=" border: 1px solid #ccc;">CARAMELO LECHE</td></tr>
+						<tr><td  style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Brand:</b></td><td style=" border: 1px solid #ccc;">Montes</td></tr>
+						<tr><td  style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Unit Meas:</b></td><td style=" border: 1px solid #ccc;">CASE</td></tr>
+						<tr><td  style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Pack Size:</b></td><td style=" border: 1px solid #ccc;">10/1.35 Kg</td></tr>
+						
+						
+												
+						
+						<tr><td  style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Weight:</b></td><td style=" border: 1px solid #ccc;">
+						
+						
+						33.0500												
+						</td></tr>
+						
+												
+						
+						<tr><td colspan="2" align="Center" style="background-color: #e8e8e8;  border: 1px solid #ccc;"><b>Notes</b></td>
+				</tr>
+				<tr><td colspan="2" align="left" style="border: 1px solid #ccc;">No current notes for this item.</td>
+				</tr>
+						
+						
+						
+						
+						
+											</table>
+
+					
+				</td>
+				</tr>
+				
+				</table>
+</div>
+    
+    </td>
+  </tr>
+</table>
+
+</td></tr></table>
+	<table width="100%"><tr><td valign="middle">		<center>TJ CANDY		6079 Rickenbacker Rd.
+Commerce, CA 90040		Phone: (562) 463-8194		Fax: (562) 692-4981</center><br />
+        <div align="right"><a href="http://www.necs.com/net" alt="Online Distribution Website from NECS" target="_blank"><img src="/include/common/images/entreenet.png" border="0" style="margin-bottom:3px; margin-right:3px;"/></a></div>
+    <script>var gSiteRoot = '';</script>
+</td></tr></table><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76800504-8', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

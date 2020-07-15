@@ -1,0 +1,1689 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TJ CANDY</title>
+<link rel="stylesheet" type="text/css" href="/include/common/site/type1/site4.css?v=v3.7.5.11-1" /><style>body { background-image: url(' /local//site/images/sitebackground.jpg ') } .pri-fg { color: #ffffff; } .pri-bg { background-color: #8c0b42 }.sec-fg { color: #000000; } .sec-bg { background-color: #e4dacb }.side-fg { color: #000000; } .side-bg { background-color: #d6cabd }.foot-fg { color: #000000; } .foot-bg { background-color: #ccbdb0 }.pri-fg a, .pri-fg a:visited, .pri-fg a:active, .pri-fg a:link { color: #ffffff; background-color: #8c0b42 } a,  a:visited,  a:active,  a:link { color: #8c0b42; background-color: transparent; }.foot-fg a, .foot-fg a:visited, .foot-fg a:active, .foot-fg a:link { color: #000000; background-color: #ccbdb0 }</style><link rel="stylesheet" type="text/css" href="/local/site/site4.css" />
+<meta name="google-site-verification" content="MaK4fX4XCO7TAth_eT2wATVfpdccaf8COpAXw6HWJK4" /><script>
+
+function addItem(id, desc, brand, currprice, currpriceunit, qty, size, ums) {
+	var frmId
+        frmId = document.getElementById('form-id');
+	frmId.value = id;
+
+	frmId = document.getElementById('form-desc');
+	frmId.value = desc;
+
+        frmId = document.getElementById('form-brand');
+	frmId.value = brand;
+
+        frmId = document.getElementById('form-currprice');
+	frmId.value = currprice;
+
+        frmId = document.getElementById('form-currpriceunit');
+	frmId.value = currpriceunit;
+
+        frmId = document.getElementById('form-qty');
+	frmId.value = qty;
+
+        frmId = document.getElementById('form-size');
+	frmId.value = size;
+
+        frmId = document.getElementById('form-ums');
+	frmId.value = ums;
+
+	var form = document.getElementById('myform');
+	form.submit();
+}
+
+</script>
+<link rel="stylesheet" type="text/css" href="/include/common/site/slideshow.css?v=v3.7.5.11-1" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js?v=v3.7.5.11-1"></script>
+<script type="text/javascript" src="/include/common/site/slideshow.js?v=v3.7.5.11-1"></script>
+</head>
+<body>
+
+   <table style="border-collapse: collapse;" width="100%">
+        <tr><td>
+<table width="100%" style="border-collapse: collapse;">
+	<tr><td valign="middle" width="90%">
+		<a href="/catalog?view=class"><img border="0" src="/local/site/images/logo/standard.png" alt="" /></a>
+	</td><td height="100" valign="top" align="center" class="white-grad">
+				
+						<script type="text/javascript">
+	
+		var mygallery=new simpleGallery({
+		wrapperid: "simplegallery1", //ID of main gallery container,
+		dimensions: [250, 90], //width/height of gallery in pixels. Should reflect dimensions of the images exactly
+		imagearray: [
+	
+	
+	
+					
+					
+				["/tjcandy/local/images/items/large/BR000002.jpg", "/vendor/Zumba+Pica?view=brands", "", "Zumba Pica"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000077.jpg", "/vendor/Vero?view=brands", "", "Vero"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000069.jpg", "/vendor/Valentina?view=brands", "", "Valentina"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000081.jpg", "/vendor/Vagabundo?view=brands", "", "Vagabundo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000068.jpg", "/vendor/Tutsi+Pop?view=brands", "", "Tutsi Pop"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000064.jpg", "/vendor/Tia+Juana?view=brands", "", "Tia Juana"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000062.jpg", "/vendor/Tama-Roca?view=brands", "", "Tama-Roca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000061.jpg", "/vendor/Tamanzela?view=brands", "", "Tamanzela"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000012.jpg", "/vendor/Sonric%27s?view=brands", "", "Sonric's"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000058.jpg", "/vendor/Sabritas?view=brands", "", "Sabritas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000010.jpg", "/vendor/Ricolino?view=brands", "", "Ricolino"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000057.jpg", "/vendor/Ravi?view=brands", "", "Ravi"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000024.jpg", "/vendor/Pigui?view=brands", "", "Pigui"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000082.jpg", "/vendor/Pichirilo?view=brands", "", "Pichirilo"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000053.jpg", "/vendor/Pavito?view=brands", "", "Pavito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000052.jpg", "/vendor/Nutresa?view=brands", "", "Nutresa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000051.jpg", "/vendor/Nestle?view=brands", "", "Nestle"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000018.jpg", "/vendor/Motitas?view=brands", "", "Motitas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000050.jpg", "/vendor/Moreliates?view=brands", "", "Moreliates"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000003.jpg", "/vendor/Montes?view=brands", "", "Montes"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000092.jpg", "/vendor/Miguelito?view=brands", "", "Miguelito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000047.jpg", "/vendor/Meiji?view=brands", "", "Meiji"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000021.jpg", "/vendor/Lucas?view=brands", "", "Lucas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000045.jpg", "/vendor/Losso?view=brands", "", "Losso"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000013.jpg", "/vendor/Lorena?view=brands", "", "Lorena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000071.jpg", "/vendor/La+Zagala?view=brands", "", "La Zagala"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000043.jpg", "/vendor/La+Molienda?view=brands", "", "La Molienda"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000031.jpg", "/vendor/La+Corona?view=brands", "", "La Corona"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000076.jpg", "/vendor/La+Colmena?view=brands", "", "La Colmena"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000029.jpg", "/vendor/La+Coculense?view=brands", "", "La Coculense"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000087.jpg", "/vendor/KustomKids?view=brands", "", "KustomKids"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000042.jpg", "/vendor/Kokito?view=brands", "", "Kokito"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000032.jpg", "/vendor/Karla?view=brands", "", "Karla"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000014.jpg", "/vendor/Indy?view=brands", "", "Indy"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000037.jpg", "/vendor/Gamesa?view=brands", "", "Gamesa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000072.jpg", "/vendor/El+Azteca?view=brands", "", "El Azteca"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000034.jpg", "/vendor/Dot?view=brands", "", "Dot"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000005.jpg", "/vendor/De+La+Rosa?view=brands", "", "De La Rosa"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000086.jpg", "/vendor/Cool+Toons?view=brands", "", "Cool Toons"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000001.jpg", "/vendor/Canels?view=brands", "", "Canels"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000023.jpg", "/vendor/Cabadas?view=brands", "", "Cabadas"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000006.jpg", "/vendor/Bondy+Fiesta?view=brands", "", "Bondy Fiesta"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000091.jpg", "/vendor/Alte%C3%B1o?view=brands", "", "Alteño"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000004.jpg", "/vendor/Aldama?view=brands", "", "Aldama"],
+					
+					
+				["/tjcandy/local/images/items/large/BR000015.jpg", "/vendor/Adams?view=brands", "", "Adams"],
+					
+	
+			],
+			autoplay: [true, 2500, 30], //[auto_play_boolean, delay_btw_slide_millisec, cycles_before_stopping_int]
+			persist: false, //remember last viewed slide and recall within same session?
+			fadeduration: 500, //transition duration (milliseconds)
+			oninit:function(){ //event that fires when gallery has initialized/ ready to run
+				//Keyword "this": references current gallery instance (ie: try this.navigate("play/pause"))
+			},
+			onslide:function(curslide, i){ //event that fires after each slide is shown
+				//Keyword "this": references current gallery instance
+				//curslide: returns DOM reference to current slide's DIV (ie: try alert(curslide.innerHTML)
+				//i: integer reflecting current image within collection being shown (0=1st image, 1=2nd etc)
+			}
+		})
+	
+		</script>
+			<div id="simplegallery1"></div>
+										<a href="/catalog/brands?view=brands" ><img src="/include/common/images/shopnow.jpg" style="margin: none; padding: none;"/></a></td></tr>
+</table></td></tr>
+<tr>
+<td>
+<table width="100%" border="0" style=" border-top: thin solid #747b82;  border-right: thin solid #747b82;  border-left: thin solid #747b82;
+border-bottom: thin solid #747b82;  border-top-left-radius: 5px;  border-top-right-radius: 5px;" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td>
+	<table style="border-collapse: collapse;" width="100%" cellpadding="4">
+      <tr class="pri-fg pri-bg" >
+        <td width="275" style="font-size: 14px;"><strong>Our Catalog</strong></td>
+        <td width="76">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="47">&nbsp;</td>
+        <td width="52">&nbsp;</td>
+      </tr>
+ 	    
+  <script type="text/javascript">
+	var locationBrands = "/catalog/brands?view=brands&limit=50";
+	var locationClass = "/catalog?view=class&limit=50";
+	var locationAllItems =  "/catalog/allitems?view=allitems&limit=50";
+	function changeFunc() {
+    var selectview = document.getElementById("selectview");
+    var selectedValue = selectview.options[selectview.selectedIndex].value;
+	if(selectedValue == "bybrand") {
+	window.location = locationBrands }
+	if(selectedValue == "byclass") {
+	window.location = locationClass }
+	if(selectedValue == "allitems") {
+	window.location = locationAllItems }
+   }
+  </script>
+<form id="searchform" name="search" method="get" action="/search"> <tr  class="pri-fg pri-bg" style="border-bottom: thin solid #747b82;">
+        <td colspan="10" valign="middle">View:
+          <select name="selectview" id="selectview" style="font-family: Arial,'Lucidia Console',sans-serif;" onchange="changeFunc();">
+                <option value="choose">Select</option>
+				<option value="allitems"  >All Items</option>
+                <option value="byclass" >By Class</option>
+                <option value="bybrand" >By Brand</option>
+              </select>
+          &nbsp;&nbsp;&nbsp;&nbsp;  Search:  
+		  <select name="queryCol" id="queryCol" style="  font-family: Arial,'Lucidia Console',sans-serif;">
+		   <option value="">All</option>
+                <option value="SM_FULLTEXT" >Item Descriptions</option>
+                <option value="class" >By Class</option>
+                <option value="brand" >By Brand</option>
+                <option value="item_no" >Item Number</option>
+              </select>&nbsp;&nbsp;
+          <input type="text" id="keywords" name="terms"  onclick='javascript: this.value = ""' style="width: 440px;     font-family: Arial,'Lucidia Console',sans-serif;
+    font-size: 12px;" value="Enter Search Terms"/>
+		  &nbsp;&nbsp;<input type="submit"  value="Search">
+		</td>
+      </tr></form>	<tr class="pri-fg pri-bg"><td colspan="10" style="border-bottom: thin solid #747b82; font-size: 14px"><b>Browsing Product Class: BOTANA</b>
+	</td></tr>
+    </table>
+	
+	</td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+	
+    <div style="max-height: 550px; overflow: auto;">
+    	<table width="100%" CELLSPACING="0">
+      <tr>
+           <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;">Image</td>        <td width="8%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82; background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=item_no&dir=DESC&terms=&queryCol=" class="pri-fg">Item #</a></td>
+        <td  width="33%"   class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=description1&dir=ASC&terms=&queryCol=" class="pri-fg">Description</a></td>
+        <td width="26%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;background-color: #f0f1f3;"><a href="?offset=0&limit=50&col=brand&dir=ASC&terms=&queryCol=" class="pri-fg">Brand</a></td>
+         <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;"><a href="?offset=0&limit=50&col=size&dir=ASC&terms=&queryCol=" class="pri-fg">Pack Size</a></td>
+        <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;"><a href="?offset=0&limit=50&col=unit&dir=ASC&terms=&queryCol=" class="pri-fg">Unit</a></td>
+		 <td width="9%" class="small-text" STYLE="border-bottom: thin solid #747b82; border-right: thin solid #747b82;">Weight</td>
+          		         </tr>
+											
+					<tr><td  colspan="7"   style="background-color:#cccccc; border-bottom: thin solid #000000; font-size: 14px;"><b>BOTANA</b></td></tr>
+					
+					<div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ALE09810"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000187.jpg" alt="Alex Garapinado" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ALE09810</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ALE09810">Alex Garapinado</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Alex</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">5/25</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  37.7500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA00040"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001228.jpg" alt="Arachi Cacahuate Japones Nat 6/50" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA00040</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA00040">Arachi Cacahuate Japones Nat 6/50</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/50/50 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  34.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA00046"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001227.jpg" alt="Arachi Cacahuate Japones Chile 6/50" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA00046</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA00046">Arachi Cacahuate Japones Chile 6/50</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/50/50 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  34.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA06209"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001070.jpg" alt="Arachi Cacahuate Japones 2 lb" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA06209</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA06209">Arachi Cacahuate Japones 2 lb</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">16/2 lb</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">BAG</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  33.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA45150"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001225.jpg" alt="Arachi Cacahuate Cruji Fuego" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA45150</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA45150">Arachi Cacahuate Cruji Fuego</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">8/10/150gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  27.9000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA51622"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000139.jpg" alt="Arachi Cacahuate Japones Bulk" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA51622</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA51622">Arachi Cacahuate Japones Bulk</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">3/11 lb</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  34.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA53240"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001738.jpg" alt="Arachi Cacahuate Charola Mix" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA53240</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA53240">Arachi Cacahuate Charola Mix</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/8oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  7.3500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA54932"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002034.jpg" alt="Arachi Cacahuate Japones 100Gr" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA54932</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA54932">Arachi Cacahuate Japones 100Gr</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">15/10/100g</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  36.0500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA77706"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001257.jpg" alt="Arachi Cacahuate Pinatero 18/50/13g" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA77706</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA77706">Arachi Cacahuate Pinatero 18/50/13g</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">18/50/13gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  42.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA77720"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001226.jpg" alt="Arachi Botana Mixta" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA77720</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA77720">Arachi Botana Mixta</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">8/10/180gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  32.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ARA77730"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001224.jpg" alt="Arachi Cacahuate Japones 8/10" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ARA77730</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ARA77730">Arachi Cacahuate Japones 8/10</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Arachi</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">8/10/180gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  32.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/EAZ00054"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001577.jpg" alt="El Azteca GarampiRico #7" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">EAZ00054</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/EAZ00054">El Azteca GarampiRico #7</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Azteca</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">6/25</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  33.1700  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ELC00001"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002142.jpg" alt="El Cerdito Duritos Rueda" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ELC00001</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ELC00001">El Cerdito Duritos Rueda</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Cerdito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/3 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  7.1500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ELC00002"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002141.jpg" alt="El Cerdito Duritos 4X4" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ELC00002</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ELC00002">El Cerdito Duritos 4X4</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Cerdito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/3 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  7.1500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ELC00003"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002144.jpg" alt="El Cerdito Duritos Tiritas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ELC00003</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ELC00003">El Cerdito Duritos Tiritas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Cerdito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/3 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  7.1500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ELC00004"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002143.jpg" alt="El Cerdito Papas Fritas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ELC00004</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ELC00004">El Cerdito Papas Fritas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Cerdito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/3 oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00001"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001033.jpg" alt="Hola Saladito Limon" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00001</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00001">Hola Saladito Limon</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  14.2000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00003"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001032.jpg" alt="Hola Saladito Fresco" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00003</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00003">Hola Saladito Fresco</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  25.3500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00004"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001029.jpg" alt="Hola Saladito Agridulce" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00004</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00004">Hola Saladito Agridulce</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  34.8000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00005"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001031.jpg" alt="Hola Saladito Enmielado" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00005</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00005">Hola Saladito Enmielado</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  35.1500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00006"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001034.jpg" alt="Hola Saladito Naranja" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00006</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00006">Hola Saladito Naranja</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  35.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00057"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001030.jpg" alt="Hola Saladito Chamoy" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00057</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00057">Hola Saladito Chamoy</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  35.4500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/HOL00108"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001035.jpg" alt="Hola Saladito Picosito" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">HOL00108</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/HOL00108">Hola Saladito Picosito</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Hola</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/12</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  15.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/LEO00076"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/logo/standard.png" alt="El Leoncito Churro Grueso" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">LEO00076</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/LEO00076">El Leoncito Churro Grueso</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">El Leoncito</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1/24</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/PCH00001"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001147.jpg" alt="Pichirilo Semilla De Calabaza Bulk" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">PCH00001</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/PCH00001">Pichirilo Semilla De Calabaza Bulk</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Pichirilo</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">2/5 kg</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">BAG</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  22.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/PCH92002"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001401.jpg" alt="Pichirilo Semilla De Calabaza" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">PCH92002</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/PCH92002">Pichirilo Semilla De Calabaza</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Pichirilo</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">10/10</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">BAG</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.8000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/POP00001"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002139.jpg" alt="Pop Corn Jalapeno" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">POP00001</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/POP00001">Pop Corn Jalapeno</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Popcorn</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/49.7 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/POP00002"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002140.jpg" alt="Pop Corn Cheesse" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">POP00002</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/POP00002">Pop Corn Cheesse</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Popcorn</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">24/49.7 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/RIC00879"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000213.jpg" alt="Ricolino Takis Fuego 4oz" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">RIC00879</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/RIC00879">Ricolino Takis Fuego 4oz</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Ricolino</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">20/4oz</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  4.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/RIC04248"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002133.jpg" alt="Ricolino Mini Takis Mix 5/25" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">RIC04248</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/RIC04248">Ricolino Mini Takis Mix 5/25</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Ricolino</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">5/25</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  12.0500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/RIC44825"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001805.jpg" alt="Ricolino Mini Takis Fuego 3/25" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">RIC44825</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/RIC44825">Ricolino Mini Takis Fuego 3/25</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Ricolino</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">3/25</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  11.8000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00184"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000591.jpg" alt="De La Rosa Cacahuate Japones 12/6" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00184</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00184">De La Rosa Cacahuate Japones 12/6</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">12/6/200gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  32.2000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00209"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000402.jpg" alt="De La Rosa Cacahuate Nishiyama" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00209</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00209">De La Rosa Cacahuate Nishiyama</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">18/900 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  37.2000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00229"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT000036.jpg" alt="De La Rosa Cacahuate Japones 16/14" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00229</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00229">De La Rosa Cacahuate Japones 16/14</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">16/14/42gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  21.6000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/ROS00459"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001370.jpg" alt="De La Rosa Cacahuate Japones 4/50" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">ROS00459</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/ROS00459">De La Rosa Cacahuate Japones 4/50</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">De La Rosa</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">4/50/60 gr</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  28.1000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB00001"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001450.jpg" alt="Sabritas Fritos Sal/Limon" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB00001</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB00001">Sabritas Fritos Sal/Limon</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.4000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB00002"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001449.jpg" alt="Sabritas Fritos Chile/Limon" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB00002</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB00002">Sabritas Fritos Chile/Limon</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.5000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB00012"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/logo/standard.png" alt="Sabritas Tostitos Chicos Flaming" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB00012</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB00012">Sabritas Tostitos Chicos Flaming</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+    
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB00018"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002157.jpg" alt="Sabritas Rufles Ultra Flaming Hot" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB00018</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB00018">Sabritas Rufles Ultra Flaming Hot</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  9.5000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB00503"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT002107.jpg" alt="Sabritas Churrumais Flamas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB00503</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB00503">Sabritas Churrumais Flamas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  19.4500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB10983"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001832.jpg" alt="Sabritas Cheetos Bolitas" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB10983</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB10983">Sabritas Cheetos Bolitas</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  8.1000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB10996"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001294.jpg" alt="Sabritas Crujitos" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB10996</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB10996">Sabritas Crujitos</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  9.7500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB13087"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001444.jpg" alt="Sabritas Tostitos Grandes Flaming" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB13087</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB13087">Sabritas Tostitos Grandes Flaming</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  14.1000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB13093"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001824.jpg" alt="Sabritas Cheetos Flamin Hot" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB13093</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB13093">Sabritas Cheetos Flamin Hot</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  15.0000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB13097"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001934.jpg" alt="Sabritas Cheetos Torciditos" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB13097</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB13097">Sabritas Cheetos Torciditos</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  19.4500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB15106"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001220.jpg" alt="Sabritas Fritos Chorizo Chipotle" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB15106</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB15106">Sabritas Fritos Chorizo Chipotle</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  17.6500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB15782"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001349.jpg" alt="Sabritas Rancheritos" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB15782</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB15782">Sabritas Rancheritos</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  11.9000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB20035"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001297.jpg" alt="Sabritas Tostitos Grande" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB20035</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB20035">Sabritas Tostitos Grande</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  14.1000  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB24827"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/items/small/IT001374.jpg" alt="Sabritas Doritos Nacho" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB24827</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB24827">Sabritas Doritos Nacho</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1 Pza</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  11.2500  
+  
+  
+  </td>
+  
+    </tr></div><div class="item-block"> <tr >
+	
+      <td STYLE="border-bottom: thin solid #747b82;"> <a href="/catalog/item/SAB26947"
+		style=" color: #000;text-decoration: none;  !important">
+					<img src="/local/images/logo/standard.png" alt="Sabritas Tostitos Chicos Tostipack" border="0" style="margin-right: 15px;"/>
+					</a></td>
+      
+    <td STYLE="border-bottom: thin solid #747b82;">SAB26947</td>
+    <td STYLE="border-bottom: thin solid #747b82;"><a style="color:#000000;" href="/catalog/item/SAB26947">Sabritas Tostitos Chicos Tostipack</a>
+				
+		
+		
+		
+		</td>
+    <td STYLE="border-bottom: thin solid #747b82;">Sabritas</td>
+	 
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">1/25</td>
+    <td STYLE="border-bottom: thin solid #747b82;" align="left">CASE</td>
+       <td STYLE="border-bottom: thin solid #747b82;">
+  
+  
+  
+  4.2500  
+  
+  
+  </td>
+  
+    </tr></div></table></div>	   <tr>
+	<td><div id="pager" class="pri-bg pri-fg">
+<table width="100%" class="pri-bg pri-fg" >
+<tr>
+	<td width="30%">
+					Displaying
+			1 -
+			50			of
+			56			results.
+			</td>
+
+	<td width="35%" align="center">
+
+<button class="input-button" onclick="window.location='?offset=50&limit=50&col=item_no&dir=ASC&terms=&queryCol='">More >></button>
+	</td>
+
+	<td width="35%" align="right">* Indicates Average Weight &nbsp;&nbsp;&nbsp;&nbsp; 
+		Page <select name="page-jump" onchange="window.location=''+ this.options[this.selectedIndex].value+''"><option selected value="?offset=0&limit=50&col=item_no&dir=ASC&terms=&queryCol=">1</option><option  value="?offset=50&limit=50&col=item_no&dir=ASC&terms=&queryCol=">2</option></select>&nbsp;&nbsp;Results per page <select name="page-size" onchange="window.location=''+ this.options[this.selectedIndex].value+''"><option selected value="?offset=0&limit=50&col=item_no&dir=ASC&terms=&queryCol=">50</option><option  value="?offset=0&limit=100&col=item_no&dir=ASC&terms=&queryCol=">100</option><option  value="?offset=0&limit=150&col=item_no&dir=ASC&terms=&queryCol=">150</option><option  value="?offset=0&limit=200&col=item_no&dir=ASC&terms=&queryCol=">200</option><option  value="?offset=0&limit=250&col=item_no&dir=ASC&terms=&queryCol=">250</option></select>	</td>
+</table>
+</div>
+</td>
+  </tr>
+			  </table></td>
+  </tr>
+ 
+</table>
+
+	</td></tr></table>
+
+
+	<table width="100%"><tr><td valign="middle">		<center>TJ CANDY		6079 Rickenbacker Rd.
+Commerce, CA 90040		Phone: (562) 463-8194		Fax: (562) 692-4981</center><br />
+        <div align="right"><a href="http://www.necs.com/net" alt="Online Distribution Website from NECS" target="_blank"><img src="/include/common/images/entreenet.png" border="0" style="margin-bottom:3px; margin-right:3px;"/></a></div>
+    <script>var gSiteRoot = '';</script>
+</td></tr></table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76800504-8', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>
